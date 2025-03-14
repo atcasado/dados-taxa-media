@@ -1,0 +1,4 @@
+.venv
+src\input\*.xlsx
+src\output\*.xlsx
+__pycache__/*
