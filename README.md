@@ -1,1 +1,0 @@
-"# dados-taxa-media" 
